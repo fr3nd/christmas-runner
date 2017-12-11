@@ -1,0 +1,2 @@
+convert -background none -layers merge sprites.xcf default_100_percent/100-offline-sprite.png
+convert -scale 200%! default_100_percent/100-offline-sprite.png default_200_percent/200-offline-sprite_new.png
